@@ -6,7 +6,7 @@ L'objectif est de construire un code en **TDD** qui fait passer le test contenu 
 
 
 
-![Builder](./../Images/aaf5f90c-b4ae-4c4c-bc19-1294bed176f4.png)
+![Builder](./../../Images/aaf5f90c-b4ae-4c4c-bc19-1294bed176f4.png)
 
 Un PC sera composé de class **Part**
 
